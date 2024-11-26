@@ -1,0 +1,12 @@
+flask
+
+pip install Flask
+python.exe -m pip install --upgrade pip
+
+
+requests
+pip install requests
+
+versions:
+Flask==2.3.2
+requests==2.31.0

@@ -8,7 +8,7 @@ docker run -d -p 5000:5000 --env-file .env proxy-api
 
 # Proxy Management API
 
-A Flask-based API to manage proxy configurations using the Webshare API.
+A Flask-based API to manage proxy configurations using the root service API.
 
 ## Features
 - **Fetch Proxies**: Retrieve all proxies.
